@@ -1,0 +1,1 @@
+docker run -it --rm -p 5000:5000 -p 6666:6666 -v $PWD:/csv_reporting csv bash
